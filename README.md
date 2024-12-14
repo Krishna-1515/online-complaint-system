@@ -1,11 +1,17 @@
 Overview
+
 This is a fully responsive E-Commerce Website built using only HTML, CSS, and JavaScript. It includes basic functionalities such as product listing, adding products to the cart, and a checkout page. This project is designed for learning purposes and demonstrates how to create a simple e-commerce user interface without any backend.
 
 Features
+
 1.User Registration and Login
+
 2.Complaint Submission
+
 3.Complaint Status Tracking
+
 4.Admin Login
+
 5.Status Updates
 
 index page
