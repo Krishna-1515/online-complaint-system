@@ -1,8 +1,8 @@
-Overview
+**Overview**
 
-This is a fully responsive E-Commerce Website built using only HTML, CSS, and JavaScript. It includes basic functionalities such as product listing, adding products to the cart, and a checkout page. This project is designed for learning purposes and demonstrates how to create a simple e-commerce user interface without any backend.
+The **Online Complaint Management System** is a web-based platform designed to digitize and streamline the process of lodging, managing, and resolving complaints. This system ensures efficient communication between users and administrators, enhancing transparency and accountability. Users can register, log in, and submit complaints with category-specific details, while administrators can manage, assign, and update the status of these complaints in real-time.
 
-Features
+**Features**
 
 1.User Registration and Login
 
@@ -13,6 +13,14 @@ Features
 4.Admin Login
 
 5.Status Updates
+
+**Tech Stack**
+
+FRONTEND: HTML, CSS ,JAVASCRIPT
+
+BACKEND: PHP
+
+DATABASE: MYSQL
 
 index page
 ![Screenshot (22)](https://github.com/user-attachments/assets/dd8a9f17-df82-44ed-a4d5-a99ec0b2560a)
